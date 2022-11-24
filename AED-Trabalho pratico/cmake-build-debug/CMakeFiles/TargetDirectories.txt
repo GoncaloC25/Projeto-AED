@@ -1,0 +1,3 @@
+C:/Users/IPVC/Desktop/IPVC/AED-Trabalho pratico/cmake-build-debug/CMakeFiles/AED_Trabalho_pratico.dir
+C:/Users/IPVC/Desktop/IPVC/AED-Trabalho pratico/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/IPVC/Desktop/IPVC/AED-Trabalho pratico/cmake-build-debug/CMakeFiles/rebuild_cache.dir
